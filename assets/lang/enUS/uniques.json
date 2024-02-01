@@ -1,0 +1,350 @@
+{
+    "waxing_gibbous": {
+        "desc": "gain stealth for seconds when killing enemies with shred. breaking stealth with an attack grants ambush which guarantees critical strikes for seconds.",
+        "snoId": 1306218
+    },
+    "the_butchers_cleaver": {
+        "desc": "lucky hit when you critically strike an enemy you have up to a chance to fear and slow them by for seconds.",
+        "snoId": 941704
+    },
+    "boost_dagger": {
+        "desc": "this is a test item used for max level boosts.",
+        "snoId": 941728
+    },
+    "condemnation": {
+        "desc": "your core skills deal increased damage when spending combo points. your basic skills using this weapon have a chance to generate combo points.",
+        "snoId": 941730
+    },
+    "ashearas_khanjar": {
+        "desc": "hits with this weapon increase your attack speed by for seconds, up to .",
+        "snoId": 941731
+    },
+    "fleshrender": {
+        "desc": "debilitating roar and blood howl deal damage to nearby poisoned enemies, increased by for every willpower you have.",
+        "snoId": 941798
+    },
+    "black_river": {
+        "desc": "corpse explosion consumes up to additional corpses around the initial corpse, dealing increased damage and with a larger radius per additional corpse.",
+        "snoId": 1306235
+    },
+    "lidless_wall": {
+        "desc": "lucky hit while you have an active bone storm, hitting an enemy outside of a bone storm has up to a chance to spawn an additional bone storm at their location. each of your active sacrifice bonuses increase the chance by and the total additional bone storms you can have by .",
+        "snoId": 1439541
+    },
+    "ramaladnis_magnum_opus": {
+        "desc": "skills using this weapon deal increased damage per point of fury you have, but you lose fury every second.",
+        "snoId": 1304455
+    },
+    "azurewrath": {
+        "desc": "lucky hit your core skills have up to a chance to freeze enemies for seconds and deal cold damage to them.",
+        "snoId": 1439438
+    },
+    "doombringer": {
+        "desc": "lucky hit up to a chance to deal shadow damage to surrounding enemies and reduce their damage done by for seconds.",
+        "snoId": 941869
+    },
+    "flamescar": {
+        "desc": "while channeling incinerate, you periodically shoot embers that are attracted to enemies, each dealing fire damage.",
+        "snoId": 1214791
+    },
+    "the_oculus": {
+        "desc": "gain the effect of the teleport enchantment for free. when you evade using teleport enchantment you are taken to a random location.",
+        "snoId": 1439529
+    },
+    "ancients_oath": {
+        "desc": "steel grasp launches additional chains. enemies hit by steel grasp take increased damage from you for seconds.",
+        "snoId": 941951
+    },
+    "skyhunter": {
+        "desc": "the first direct damage you deal to an enemy is a guaranteed critical strike. when you consume stacks of precision casting a skill, that skill gains increased critical strike damage and you gain energy.",
+        "snoId": 941972
+    },
+    "windforce": {
+        "desc": "lucky hit hits with this weapon have up to a chance to deal double damage and knock back the target.",
+        "snoId": 941973
+    },
+    "eaglehorn": {
+        "desc": "penetrating shot makes enemies hit vulnerable for seconds. every casts of penetrating shot will fire an arrow that bounces off walls and scenery and deals more damage.",
+        "snoId": 1439537
+    },
+    "hellhammer": {
+        "desc": "upheaval ignites the ground burning enemies for an additional damage over seconds.",
+        "snoId": 942021
+    },
+    "overkill": {
+        "desc": "death blow creates a shockwave, dealing of its base damage to enemies. enemies who die to this effect also reset death blows cooldown.",
+        "snoId": 1222183
+    },
+    "boost_scythe": {
+        "desc": "this is a test item used for max level boosts.",
+        "snoId": 942068
+    },
+    "bloodless_scream": {
+        "desc": "your darkness skills chill enemies for up to and deal increased damage to frozen enemies. lucky hit your darkness skills have up to a chance to generate additional essence against frozen targets.",
+        "snoId": 1220207
+    },
+    "greatstaff_of_the_crone": {
+        "desc": "claw is now a storm skill and also casts storm strike at normal damage.",
+        "snoId": 942106
+    },
+    "ahavarion_spear_of_lycander": {
+        "desc": "gain a random shrine effect for seconds after killing an elite enemy. can only occur once every seconds.",
+        "snoId": 942108
+    },
+    "staff_of_endless_rage": {
+        "desc": "every rd cast of fireball launches additional projectiles and deals increased damage.",
+        "snoId": 942111
+    },
+    "staff_of_lam_esen": {
+        "desc": "your casts of charged bolts have a chance to be attracted to enemies and last longer.",
+        "snoId": 1306310
+    },
+    "fields_of_crimson": {
+        "desc": "while using this weapon, damaging at least one enemy with rupture creates a blood pool that inflicts bleeding damage over seconds. enemies standing in the pool take increased bleeding damage.",
+        "snoId": 942134
+    },
+    "the_grandfather": {
+        "desc": "increases your critical strike damage by . the other properties on this weapon can roll higher than normal.",
+        "snoId": 942135
+    },
+    "battle_trance": {
+        "desc": "increase frenzys maximum stacks by . while you have maximum frenzy, your other skills gain increased attack speed.",
+        "snoId": 1304468
+    },
+    "dolmen_stone": {
+        "desc": "casting boulder while hurricane is active will cause your boulders to rotate around you.",
+        "snoId": 1610440
+    },
+    "melted_heart_of_selig": {
+        "desc": "gain maximum resource. when taking damage, is drained as resource for every of maximum life you would have lost.",
+        "snoId": 1275933
+    },
+    "banished_lords_talisman": {
+        "desc": "after you spend of your primary resource, your next core skill is guaranteed to overpower. your critical strikes that overpower deal increased damage.",
+        "snoId": 1561309
+    },
+    "deathspeakers_pendant": {
+        "desc": "blood surge casts a mini nova on your minions, dealing damage. damage is increased by per target drained by the initial cast, up to .",
+        "snoId": 1230484
+    },
+    "word_of_hakan": {
+        "desc": "your rain of arrows is always imbued with all imbuements at once.",
+        "snoId": 1306258
+    },
+    "esadoras_overflowing_cameo": {
+        "desc": "upon collecting crackling energy, theres a chance to release a lightning nova, dealing lightning damage, increased by for every intelligence you have.",
+        "snoId": 1225299
+    },
+    "100000_steps": {
+        "desc": "after gaining the final damage bonus from the walking arsenal key passive, you automatically cast ground stomp and gain fury. this cannot happen more than once every seconds.",
+        "snoId": 1210595
+    },
+    "penitent_greaves": {
+        "desc": "you leave behind a trail of frost that chills enemies. you deal more damage to chilled enemies.",
+        "snoId": 942251
+    },
+    "flickerstep": {
+        "desc": "each enemy you evade through reduces your active ultimate cooldown by seconds, up to seconds.",
+        "snoId": 942253
+    },
+    "greaves_of_the_empty_tomb": {
+        "desc": "create desecrated ground beneath your sever spectres as they travel, damaging enemies for shadow damage over seconds.",
+        "snoId": 1220257
+    },
+    "beastfall_boots": {
+        "desc": "when you cast an ultimate skill, your next core skill consumes all of your energy and deals increased damage per energy consumed. using a cooldown restores energy.",
+        "snoId": 1704784
+    },
+    "esus_heirloom": {
+        "desc": "your critical strike chance is increased by of your movement speed bonus.",
+        "snoId": 1306301
+    },
+    "rage_of_harrogath": {
+        "desc": "lucky hit up to a chance to reduce the cooldowns of your nonultimate skills by seconds when you inflict bleeding on elites.",
+        "snoId": 1304379
+    },
+    "mad_wolfs_glee": {
+        "desc": "werewolf form is now your true form, and you gain ranks to all werewolf skills.",
+        "snoId": 942354
+    },
+    "insatiable_fury": {
+        "desc": "werebear form is now your true form, and you gain ranks to all werebear skills.",
+        "snoId": 942355
+    },
+    "razorplate": {
+        "desc": "gain thorns.",
+        "snoId": 1215064
+    },
+    "soulbrand": {
+        "desc": "your healing potion no longer heals instantly, instead it grants a barrier for of the healing for seconds. while you have a barrier, you gain damage reduction.",
+        "snoId": 1560873
+    },
+    "mutilator_plate": {
+        "desc": "you are blood lanced, and when blood lance would deal damage to you, it instead fortifies you for of your maximum life and has a chance to form a blood orb. blood lance deals increased damage.",
+        "snoId": 1224618
+    },
+    "blood_artisans_cuirass": {
+        "desc": "when you pick up blood orbs, a free bone spirit is spawned, dealing bonus damage based on your current life percent.",
+        "snoId": 1306229
+    },
+    "scoundrels_leathers": {
+        "desc": "while you have unlimited energy from inner sight, casting a core skill has a chance to spawn caltrops, poison trap, or death trap.",
+        "snoId": 1612293
+    },
+    "raiment_of_the_infinite": {
+        "desc": "after using teleport, close enemies are pulled to you and stunned for seconds, but teleports cooldown is increased by .",
+        "snoId": 942363
+    },
+    "gohrs_devastating_grips": {
+        "desc": "whirlwind explodes every seconds and after it ends, dealing of the base damage dealt to surrounding enemies as fire damage.",
+        "snoId": 942555
+    },
+    "unsung_ascetics_wraps": {
+        "desc": "lightning storm gains additional strike each times it grows. lightning storm critical strikes cause lightning to strike twice, dealing increased damage.",
+        "snoId": 1433954
+    },
+    "fists_of_fate": {
+        "desc": "your attacks randomly deal to of their normal damage.",
+        "snoId": 942559
+    },
+    "frostburn": {
+        "desc": "lucky hit up to a chance to freeze enemies for seconds.",
+        "snoId": 942560
+    },
+    "paingorgers_gauntlets": {
+        "desc": "damaging enemies with a nonbasic skill cast marks them for seconds. when a basic skill first hits a marked enemy, the basic skills damage is echoed to all marked enemies, dealing increased damage.",
+        "snoId": 1559327
+    },
+    "howl_from_below": {
+        "desc": "instead of detonating immediately, corpse explosion summons a volatile skeleton that charges at a random enemy and explodes. corpse explosions damage is increased by .",
+        "snoId": 1227277
+    },
+    "grasp_of_shadow": {
+        "desc": "lucky hit damaging a vulnerable enemy with a marksman or cutthroat skill has up to a chance to summon a shadow clone that mimics your attack.",
+        "snoId": 1306250
+    },
+    "gloves_of_the_illuminator": {
+        "desc": "fireball now bounces as it travels, exploding each time it hits the ground, but its explosion deals less damage.",
+        "snoId": 942564
+    },
+    "tuskhelm_of_joritz_the_mighty": {
+        "desc": "when you gain berserking while already berserk, you have a chance to become more enraged granting increased damage, fury per second, and cooldown reduction.",
+        "snoId": 1489567
+    },
+    "tempest_roar": {
+        "desc": "lucky hit storm skills have up to a chance to grant spirit. your base storm skills are now also werewolf skills",
+        "snoId": 1304489
+    },
+    "vasilys_prayer": {
+        "desc": "your earth skills are now also werebear skills and fortify you for .",
+        "snoId": 1306213
+    },
+    "andariels_visage": {
+        "desc": "lucky hit up to a chance to trigger a poison nova that applies poisoning damage over seconds to enemies in the area.",
+        "snoId": 942663
+    },
+    "harlequin_crest": {
+        "desc": "gain damage reduction. in addition, gain ranks to all skills.",
+        "snoId": 942664
+    },
+    "godslayer_crown": {
+        "desc": "when you stun, freeze, or immobilize an elite enemy, or damage a boss, it pulls in nearby enemies. you deal increased damage to them for seconds. this effect can only occur once every seconds.",
+        "snoId": 1555196
+    },
+    "boost_helm": {
+        "desc": "this is a test item used for max level boosts.",
+        "snoId": 942665
+    },
+    "deathless_visage": {
+        "desc": "bone spear leaves behind echoes as it travels that explode, dealing damage, increased by for every of your critical strike damage bonus.",
+        "snoId": 1234672
+    },
+    "cowl_of_the_nameless": {
+        "desc": "you gain increased lucky hit chance against crowd controlled enemies.",
+        "snoId": 942666
+    },
+    "starfall_coronet": {
+        "desc": "meteor now has charges with a second charge cooldown instead of a mana cost, and drops additional meteors around the target. meteors enchantment effect and enhanced meteor drop additional meteor.",
+        "snoId": 1713217
+    },
+    "storms_companion": {
+        "desc": "your wolf companions are infused with the power of the storm, dealing lightning damage and gaining the storm howl ability.",
+        "snoId": 942972
+    },
+    "temerity": {
+        "desc": "effects that heal you beyond life grant you a barrier up to of your maximum life that lasts for seconds. potions can be used while at full life.",
+        "snoId": 1306325
+    },
+    "tassets_of_the_dawning_sky": {
+        "desc": "when you take damage from a nonphysical damage type, you gain maximum resistance to that damage type for seconds. this effect can only apply to one damage type at a time.",
+        "snoId": 1477079
+    },
+    "tibaults_will": {
+        "desc": "you deal increased damage while unstoppable and for seconds after. when you become unstoppable, gain of your primary resource.",
+        "snoId": 1559420
+    },
+    "boost_pants": {
+        "desc": "this is a test item used for max level boosts.",
+        "snoId": 942975
+    },
+    "blood_moon_breeches": {
+        "desc": "your minions have a chance to curse enemies. enemies affected by at least of your curses take increased overpower damage from you.",
+        "snoId": 1217039
+    },
+    "eyes_in_the_dark": {
+        "desc": "death trap deals increased damage. unless it hits a boss or player, death trap will continue to rearm itself until it kills an enemy.",
+        "snoId": 942977
+    },
+    "iceheart_brais": {
+        "desc": "enemies that die while frozen have a chance to unleash a frost nova.",
+        "snoId": 1306273
+    },
+    "ring_of_red_furor": {
+        "desc": "after spending fury within seconds, your next cast of hammer of the ancients, upheaval, or death blow within seconds is a guaranteed critical strike and deals bonus critical strike damage.",
+        "snoId": 1706603
+    },
+    "ring_of_the_ravenous": {
+        "desc": "rends duration is increased by seconds. damaging enemies with your brawling skills applies stacks of rends bleed. this can only affect each enemy once every seconds.",
+        "snoId": 1712701
+    },
+    "hunters_zenith": {
+        "desc": "gain a bonus when you kill with a shapeshifting skill werewolf your next nonultimate werebear skill costs no resource and has no cooldown. werebear your next werewolf skill will heal you for when damage is first dealt.",
+        "snoId": 989677
+    },
+    "airidahs_inexorable_will": {
+        "desc": "when casting an ultimate skill and again seconds after, you pull in distant enemies and deal physical damage to them. this damage is increased by per point of willpower you have.",
+        "snoId": 1706650
+    },
+    "mothers_embrace": {
+        "desc": "if a core skill hits or more enemies, of the resource cost is refunded.",
+        "snoId": 1215133
+    },
+    "ring_of_starless_skies": {
+        "desc": "spending your primary resource reduces the resource cost of your skills and increases your damage by for seconds, up to .",
+        "snoId": 1306337
+    },
+    "xfals_corroded_signet": {
+        "desc": "lucky hit your damage over time effects have up to a chance to erupt, dealing damage of the same type to nearby enemies.",
+        "snoId": 1559923
+    },
+    "ring_of_mendeln": {
+        "desc": "lucky hit up to a chance to empower all of your minions, causing the next attack from each to explode for physical damage.",
+        "snoId": 1222626
+    },
+    "ring_of_the_sacrilegious_soul": {
+        "desc": "you automatically activate the following equipped skills on corpses around you raise skeleton every seconds. corpse explosion every seconds. corpse tendrils every seconds.",
+        "snoId": 1706659
+    },
+    "writhing_band_of_trickery": {
+        "desc": "casting a subterfuge skill leaves behind a decoy trap that continuously taunts and lures enemies. the decoy trap explodes after seconds dealing shadow damage. can occur every seconds.",
+        "snoId": 1706657
+    },
+    "blue_rose": {
+        "desc": "lucky hit damaging an enemy has up to a chance to form an exploding ice spike, dealing cold damage. triple this chance if the enemy is frozen.",
+        "snoId": 1211653
+    },
+    "tal_rashas_iridescent_loop": {
+        "desc": "for each type of elemental damage you deal, gain increased damage for seconds. dealing elemental damage refreshes all bonuses.",
+        "snoId": 1225567
+    }
+}
