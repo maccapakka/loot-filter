@@ -1,0 +1,71 @@
+# Lightning Storm Druid
+Aspects:
+  - [symbiotic, 4.5]
+  - [ghostwalker, 25]
+  - [shepherds, 8]
+  - [of_natural_balance]
+  - [of_the_stampede]
+  - [lightning_dancers, 4000]
+  - [of_retaliation, 29]
+  - [vigorous, 13]
+  - [overcharged, 15]
+
+Affixes:
+  - TwoHand:
+      itemType: [two-handed axe, staff]
+      minPower: 900
+      affixPool:
+        - [willpower]
+        - [all-stats]
+        - [damage_to_close_enemies, 18]
+        - [damage_to_distant_enemies, 12]
+      minAffixCount: 3
+
+  - Armor:
+      itemType: [chest armor, pants]
+      minPower: 800
+      affixPool:
+        - [damage_reduction_while_fortified, 6]
+        - [damage_reduction_from_close_enemies, 10]
+        - [damage_reduction_from_poisoned_enemies, 6]
+        - [damage_reduction_from_distant_enemies, 12]
+        - [damage_reduction, 5]
+        - [total_armour, 35]
+        - [maximum_life, 700]
+      minAffixCount: 3
+
+  - Boots:
+      itemType: boots
+      minPower: 800
+      affixPool:
+        - [movement_speed]
+        - [willpower]
+        - [total_armor_while_in_werewolf_form]
+        - any_of:
+            - [all_stats]
+            - [movement_speed_for_seconds_after_killing_an_elite]
+      minAffixCount: 3
+
+  - Amulet:
+      itemType: amulet
+      minPower: 800
+      affixPool:
+        - [total_armor]
+        - [movement_speed, 12]
+        - [ranks_of_the_envenom_passive, 2]
+        - any_of:
+            - [damage_reduction_from_poisoned_enemies, 6]
+            - [total_armor_while_in_werewolf_form]
+            - [movement_speed_for_seconds_after_killing_an_elite]
+            - [lucky_hit_chance_while_you_have_a_barrier]
+      minAffixCount: 3
+
+  - Ring:
+      itemType: ring
+      minPower: 800
+      affixPool:
+        - [critical_strike_chance, 4]
+        - [lucky_hit_chance, 5]
+        - [damage_to_close_enemies, 18]
+        - [damage_to_distant_enemies, 12]
+      minAffixCount: 3

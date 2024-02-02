@@ -1,0 +1,150 @@
+# Double Swing Barbarian Endgame rom Maxroll, Speedfarming Variant - https://maxroll.gg/d4/build-guides/double-swing-barbarian-guide#endgame-progression-&-variants-header
+Aspects:
+  - [of_unrelenting_fury]
+  - [of_echoing_fury]
+  - [edgemasters]
+  - [relentless_berserkers]
+  - [of_disobedience]
+  - [of_berserk_ripping]
+  - [ghostwalker]
+  - [of_might]
+  - [of_numbing_wrath]
+  - [rapid]
+  - [of_retribution]
+  - [of_shared_misery]
+  - [bold_chieftains]
+  - [accelerating]
+  - [of_limitless_rage]
+  - [smiting]
+  - [exploiters]
+  - [of_audacity]
+  - [windlasher]
+  - [devilish]
+  - [of_giant_strides]
+  - [of_berserk_fury]
+
+Affixes:
+  - Helm:
+      itemType: [helm]
+      minPower: 900
+      affixPool:
+        - [cooldown_reduction]
+        - [maximum_fury]
+        - [damage_while_berserking]
+        - [maximum_life]
+        - [total_armor]
+        - [strength]
+        - [all_stats]
+        - [resistance_to_all_elements]
+        - [crowd_control_duration]
+      minAffixCount: 3
+
+  - Armor:
+      itemType: [chest armor, pants]
+      minPower: 900
+      affixPool:
+        - [total_armor]
+        - [damage_reduction]
+        - [damage_reduction_while_fortified]
+        - any_of:
+            - [damage_reduction_from_bleeding_enemies]
+            - [damage_reduction_while_injured]
+            - [damage_reduction_from_close_enemies]
+            - [maximum_life]
+            - [resistance_to_all_elements]
+      minAffixCount: 3
+
+  - Armor:
+      itemType: [chest armor]
+      minPower: 900
+      affixPool:
+        - [damage_reduction_while_fortified]
+        - [total_armor]
+        - [damage_reduction]
+        - [damage_reduction_while_injured]
+      minAffixCount: 3
+
+  - Armor:
+      itemType: [chest armor, pants]
+      minPower: 900
+      affixPool:
+        - [total_armor]
+        - [damage_reduction]
+        - [maximum_life]
+        - any_of:
+            - [damage_reduction_while_fortified]
+            - [damage_reduction_from_close_enemies]
+            - [resistance_to_all_elements]
+      minAffixCount: 3
+
+  - Gloves:
+      itemType: gloves
+      minPower: 900
+      affixPool:
+        - [attack_speed]
+        - [ranks_of_double_swing]
+        - [critical_strike_chance]
+      minAffixCount: 1
+
+  - Boots:
+      itemType: boots
+      minPower: 900
+      affixPool:
+        - [movement_speed]
+        - [fury_cost_reduction]
+        - [berserking_duration]
+        - [strength]
+        - [all_stats]
+        - [damage_reduction_while_injured]
+        - [movement_speed_for_seconds_after_killing_an_elite]
+      minAffixCount: 3
+
+  - Amulet:
+      itemType: amulet
+      minPower: 900
+      affixPool:
+        - [cooldown_reduction]
+        - [fury_cost_reduction]
+        - [ranks_of_the_counteroffensive_passive]
+        - [movement_speed]
+        - [ranks_of_the_wallop_passive]
+      minAffixCount: 3
+
+  - Ring:
+      itemType: ring
+      minPower: 900
+      affixPool:
+        - [damage_while_berserking]
+        - [critical_strike_chance]
+        - [resource_generation]
+        - [maximum_fury]
+        - [maximum_life]
+        - [damage_to_close_enemies]
+        - [physical_damage]
+      minAffixCount: 3
+
+  - WeaponClose:
+      itemType: [two-handed mace, two-handed axe]
+      minPower: 900
+      affixPool:
+        - [damage_while_berserking]
+        - [strength]
+        - [all_stats]
+        - [damage_to_close_enemies]
+        - [core_skill_damage]
+        - [critical_strike_damage]
+        - [damage_to_bleeding_enemies]
+      minAffixCount: 3
+
+  - WeaponClose2:
+      itemType: [mace]
+      minPower: 900
+      affixPool:
+        - [damage_while_berserking]
+        - [strength]
+        - [all_stats]
+        - [damage_to_close_enemies]
+        - [core_skill_damage]
+        - [critical_strike_damage]
+        - [damage_to_bleeding_enemies]
+      minAffixCount: 3

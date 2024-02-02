@@ -1,0 +1,101 @@
+# Charge Barbarian Endgame from d4builds.gg, no uber uniques variant - https://d4builds.gg/builds/6e2c480f-59fc-4992-837d-67e08d2caf30/?var=2
+Aspects:
+  - [iron_blood]
+  - [juggernauts]
+  - [of_ancestral_force]
+  - [of_numbing_wrath]
+  - [ghostwalker]
+  - [earthstrikers]
+  - [veteran_brawlers]
+  - [brawlers]
+  - [bear_clan_berserkers]
+  - [bold_chieftains]
+  - [of_ancestral_charge]
+  - [edgemasters]
+  - [of_disobedience]
+
+Affixes:
+  - Helm:
+      itemType: [helm]
+      minPower: 900
+      affixPool:
+        - [cooldown_reduction]
+        - [damage_while_berserking]
+        - [maximum_life]
+        - [total_armor]
+      minAffixCount: 3
+
+  - Armor:
+      itemType: [chest armor, pants]
+      minPower: 900
+      affixPool:
+        - [total_armor]
+        - [damage_reduction]
+        - [damage_reduction_while_fortified]
+        - any_of:
+            - [damage_reduction_from_bleeding_enemies]
+            - [damage_reduction_while_injured]
+            - [damage_reduction_from_close_enemies]
+            - [maximum_life]
+            - [resistance_to_all_elements]
+      minAffixCount: 3
+
+  - Gloves:
+      itemType: gloves
+      minPower: 900
+      affixPool:
+        - [critical_strike_chance]
+        - [attack_speed]
+        - [overpower_damage]
+        - [strength]
+      minAffixCount: 3
+
+  - Boots:
+      itemType: boots
+      minPower: 900
+      affixPool:
+        - [movement_speed]
+        - [damage_reduction_while_injured]
+        - [lightning_resistance]
+        - [fire_resistance]
+      minAffixCount: 3
+
+  - Amulet:
+      itemType: amulet
+      minPower: 900
+      affixPool:
+        - [cooldown_reduction]
+        - [ranks_of_all_brawling_skills]
+        - [ranks_of_the_brute_force_passive]
+        - [damage_reduction_while_fortified]
+      minAffixCount: 3
+
+  - Ring:
+      itemType: ring
+      minPower: 900
+      affixPool:
+        - [critical_strike_chance]
+        - [damage_while_berserking]
+        - [overpower_damage]
+        - [critical_strike_damage]
+      minAffixCount: 3
+
+  - WeaponClose:
+      itemType: [two-handed mace, two-handed axe]
+      minPower: 900
+      affixPool:
+        - [all_stats]
+        - [strength]
+        - [overpower_damage]
+        - [damage_while_berserking]
+      minAffixCount: 3
+
+  - WeaponClose2:
+      itemType: [mace]
+      minPower: 900
+      affixPool:
+        - [all_stats]
+        - [strength]
+        - [overpower_damage]
+        - [damage_while_berserking]
+      minAffixCount: 3

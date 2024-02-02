@@ -1,0 +1,106 @@
+Aspects:
+  - [snowveiled]
+  - [of_the_unwavering]
+  - [storm_swell]
+  - [prodigys]
+  - [of_the_bounding_conduit]
+  - [disobedience]
+  - [of_three_curses]
+  - [conceited]
+  - [of_shattered_stars]
+  - [elementalists]
+  - [of_control]
+  - [exploiters]
+  - [edgemasters]
+
+Affixes:
+  - Helm:
+      itemType: helm
+      minPower: 900
+      affixPool:
+        - [cooldown_reduction]
+        - [lucky_hit_chance_while_you_have_a_barrier]
+        - [maximum_life]
+        - [total_armor]
+        - [maximum_mana]
+        - [intelligence]
+      minAffixCount: 3
+
+  - Armor:
+      itemType: [chest armor, pants]
+      minPower: 900
+      affixPool:
+        - [damage_reduction_from_close_enemies]
+        - [damage_reduction_from_distant_enemies]
+        - [damage_reduction_from_burning_enemies]
+        - [damage_reduction]
+        - [maximum_life]
+        - [total_armor]
+      minAffixCount: 3
+
+  - Amulet:
+      itemType: amulet
+      minPower: 900
+      affixPool:
+        - [cooldown_reduction]
+        - [mana_cost_reduction]
+        - [ranks_of_all_mastery_skills, 2]
+        - [lucky_hit_chance_while_you_have_a_barrier]
+        - [ranks_of_the_devouring_blaze_passive]
+      minAffixCount: 3
+
+  - Ring:
+      itemType: ring
+      minPower: 900
+      affixPool:
+        - [critical_strike_chance]
+        - [resource_generation]
+        - [lucky_hit_chance]
+        - [vulnerable_damage]
+        - [fire_damage]
+      minAffixCount: 3
+
+  - WeaponClose:
+      itemType: [dagger, wand, staff]
+      minPower: 800
+      affixPool:
+        - [all_stats]
+        - [intelligence]
+        - [mastery_skill_damage]
+        - [weapon_mastery_skill_damage]
+        - [vulnerable_damage]
+      minAffixCount: 3
+
+  - Focus:
+      itemType: [focus]
+      minPower: 800
+      affixPool:
+        - [cooldown_reduction]
+        - [resource_generation]
+        - [critical_strike_chance]
+        - [mana_cost_reduction, 4]
+        - [lucky_hit_chance]
+        - [lucky_hit_chance_while_you_have_a_barrier, 5]
+      minAffixCount: 3
+
+  - Boots:
+      itemType: boots
+      minPower: 900
+      affixPool:
+        - [cooldown_reduction, 6]
+        - [mana_cost_reduction, 10]
+        - [intelligence, 35]
+        - [movement_speed, 14]
+      minAffixCount: 3
+
+  - Gloves:
+      itemType: gloves
+      minPower: 900
+      affixPool:
+        - [attacks_reduce_evades_cooldown_by_seconds]
+        - [movement_speed]
+        - [ranks_of_teleport]
+        - [intelligence]
+        - [all_stats]
+        - [lucky_hit_chance]
+      minAffixCount: 3
